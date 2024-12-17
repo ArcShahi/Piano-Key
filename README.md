@@ -6,6 +6,6 @@ Sound credit : https://github.com/fuhton/piano-mp3/tree/master/piano-mp3
 
 
 
->[!Warning]
+> [!WARNING]
 - Don't press 'esc' : will terminate the app
 - Don't minimize : won't work , it has some issue with Windows FLAGS...
